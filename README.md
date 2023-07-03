@@ -1,5 +1,5 @@
 # CPark-DataScience
 
-## Editing the file
+## Pratice and Projects For Data Science and Machine Learning
 
-Test
+This repository consists of Data Science and ML practice and projects with Python using Jupyter-Lab and Google Colab
